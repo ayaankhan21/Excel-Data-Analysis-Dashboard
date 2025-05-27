@@ -16,3 +16,6 @@ The primary objective of this project is to perform a comprehensive data analysi
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+
+## Dashboard
+![vrinda](https://github.com/user-attachments/assets/902806f4-cdf4-4ff6-912d-6731ff07fb5a)
